@@ -428,7 +428,7 @@ case 'leveling':
 ●𒊹︎︎︎𝐃𝐎𝐍𝐎𒊹︎︎︎𝐀𝐃𝐑𝐗𒊹︎︎︎●
 
                            ❬ 🦊MENU🦊 ❭      
-                                               
+DATA: ${date}                                               
 ╠➥🐊${prefix}play "baixar musicas"
 ╠➥🐊${prefix}txtf "transforma texto em figurinha"
 ╠➥🐊${prefix}wame "pegar link do teu número"
