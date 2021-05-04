@@ -5,4 +5,4 @@
 > pkg install nodejs
 > git clone https://github.com/ADRXXXXXXXX/MELIODAS
 > bash install.sh
-> npm start
+> estrela npm
